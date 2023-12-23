@@ -1,6 +1,8 @@
 # 🗺️ Comprehensive Obstacle Mapping
 Disclaimer: This repository is a copy of the actual repository created by team "Cityscope Monitor" from New Hacks 2023. Currently, the actual repository is set to private by the team member who owns the repository. 
 
+<br /> 
+
 - Expansion: Broaden obstacle detection capabilities to identify a wider array of urban challenges 🚧
 - Vision: Ensure smoother navigation for all users 🚶‍♂️🛴🚲
 
