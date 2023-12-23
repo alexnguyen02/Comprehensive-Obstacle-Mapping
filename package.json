@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@auth0/auth0-spa-js": "^2.1.2",
+    "@tinymce/tinymce-svelte": "^1.0.1",
+    "tinymce": "^6.7.2"
+  }
+}
