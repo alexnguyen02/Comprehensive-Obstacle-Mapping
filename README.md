@@ -1,5 +1,5 @@
 # 🗺️ Comprehensive Obstacle Mapping
-Disclaimer: This repository is a copy of the actual repository created by team "Cityscope Monitor" from New Hacks 2023. Currently, the actual repository is set to private by the team member who owns the repository. 
+Disclaimer: This repository is a copy of the actual repository created by team "Cityscope Monitor" from New Hacks 2023. The original repository is currently set to private by the team member who owns the repository. 
 
 <br /> 
 
